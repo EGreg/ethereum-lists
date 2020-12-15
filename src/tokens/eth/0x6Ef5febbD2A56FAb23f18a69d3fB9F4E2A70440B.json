@@ -12,21 +12,23 @@
     "height": "256",
     "ipfs_hash": ""
   },
-  "support": { "email": "", "url": "" },
+  "support": {
+    "email": "support@intercoin.org",
+    "url": "https://intercoin.org/whitelist"
+  },
   "social": {
     "blog": "https://community.intercoin.org",
     "chat": "https://community.intercoin.org",
-    "discord": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/intercoin",
     "forum": "https://community.intercoin.org",
-    "github": "http://github.com/Intercoin",
-    "gitter": "",
+    "github": "https://github.com/Intercoin",
+    "gitter": "https://gitter.im/Intercoin",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/intercoin-inc",
+    "linkedin": "https://www.linkedin.com/company/intercoin-inc/",
     "reddit": "",
     "slack": "",
-    "telegram": "http://telegram.im/intercoin",
-    "twitter": "http://twitter.com/IntercoinOrg",
-    "youtube": "https://www.youtube.com/channel/UCyKZPoV5SGx6LCyGS9GvOpg"
+    "telegram": "http://t.me/intercoin",
+    "twitter": "https://twitter.com/IntercoinOrg",
+    "youtube": "https://youtube.com/c/intercoin"
   }
 }
